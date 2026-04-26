@@ -1,0 +1,10 @@
+{
+  "cells": [
+    {
+      "kind": 2,
+      "language": "cpp",
+      "value": "#include <iostream>\r\nusing namespace std;\r\nint main() {\r\n    int nums[] = {};\r\n    int head[] = {};\r\n    while(cin >> num)\r\n    return 0;\r\n}",
+      "metadata": {}
+    }
+  ]
+}
